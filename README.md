@@ -29,13 +29,6 @@ Notice something acting strangely? Help us fix it!
 
 ---
 
-## 📅 Roadmap & What We Are Working On
-
-Want to see what the Sedea team is currently focusing on? 
-* Check out our **[Public Kanban Board](https://github.com/sedea-ai/community/projects)** to see what features are planned, in progress, or recently released.
-
----
-
 ## 🤝 Community Guidelines (Code of Conduct)
 
 To ensure this remains a welcoming, safe, and productive space for everyone, we ask that all community members follow a few simple rules:
@@ -44,8 +37,6 @@ To ensure this remains a welcoming, safe, and productive space for everyone, we 
 * **Stay on Topic:** Keep discussions focused on Sedea, its tools, and its ecosystem.
 * **No Spam:** Avoid self-promotion, advertising, or repetitive posting.
 * **Look First:** Search existing discussions and issues before posting a new one to keep the repository clean.
-
-> ⚠️ **Note:** Any behavior violating our full [Code of Conduct](CODE_OF_CONDUCT.md) will result in comments being moderated or access being restricted.
 
 ---
 
